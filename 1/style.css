@@ -1,0 +1,24 @@
+body 
+{
+    font-family: Arial, sans-serif;
+    background-color: #FFA07A ;
+    align-items: center;
+    margin: 0;
+}
+
+li
+{
+    color: white;
+    list-style-position: inside;
+    padding: 10px;
+    margin: 10px;
+    background-color: #FF7F50;
+}
+
+.textStyle
+ {
+    color:white;
+    padding: 10px;
+    margin: 5px;
+    background-color: #FF4500;
+}
